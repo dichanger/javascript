@@ -10,118 +10,91 @@
 
 ~~~html
 <div class="team">
-	        <div class="box">
-	            <div class="xin3">
-	                <div class="x-box">
-	                	<div class="x-box-t">
-	                		<div class="x-box-h">企业荣誉</div>
-	                		<div class="x-box-line"></div>
-	                	</div>
-	                	<div class="xin4">
-	                		<ul class="lilist" id="lunboli1">
-	                        	<li>
-	                        		广东省产业园区协会副会长单位
-	                        	</li>
-	                        	<li>
-	                        		深圳市产业园协会副会长单位
-	                        	</li>
-	                        	<li>
-	                        		深圳市产业园区发展促进会副会长单位
-	                        	</li>
-	                        	<li>
-	                        		广东省产业园区协会副会长单位
-	                        	</li>
-	                        	<li>
-	                        		深圳市产业园协会副会长单位
-	                        	</li>
-	                        	<li>
-	                        		深圳市产业园协会副会长单位
-	                        	</li>
-	                        	<li>
-	                        		深圳市产业园协会副会长单位
-	                        	</li>		                        	             
-	                        </ul>
-	                        <div class="libtn">
-		                        <div class="btn btnPrev" id="lbbtnP1"></div>
-		                        <div class="btnline"></div>
-								<div class="btn btnNext" id="lbbtnN1"></div>
-							</div>	                        
-	                        <ul class="imglist" id="lunboimg1">
-	                        	<li>
-	                        		<img src="images/x6.jpg">
-	                        	</li>
-	                        	<li>
-	                        		<img src="images/x7.jpg">
-	                        	</li>
-	                        	<li>
-	                        		<img src="images/x6.jpg">
-	                        	</li>
-	                        	<li>
-	                        		<img src="images/x7.jpg">
-	                        	</li>
-	                        	<li>
-	                        		<img src="images/x6.jpg">
-	                        	</li>   
-	                        	<li>
-	                        		<img src="images/x6.jpg">
-	                        	</li>  
-	                        	<li>
-	                        		<img src="images/x6.jpg">
-	                        	</li>                      
-	                        </ul>    
-	                	</div>
-
-
-						<div class="x-box-t">
-		                		<div class="x-box-h">企业荣誉</div>
-		                		<div class="x-box-line"></div>
-		                	</div>
-		                	<div class="xin4">
-		                		<ul class="lilist" id="lunboli2">
-		                        	<li>
-		                        		广东省产业园区协会副会长单位
-		                        	</li>
-		                        	<li>
-		                        		深圳市产业园协会副会长单位
-		                        	</li>
-		                        	<li>
-		                        		深圳市产业园区发展促进会副会长单位
-		                        	</li>
-		                        	<li>
-		                        		广东省产业园区协会副会长单位
-		                        	</li>
-		                        	<li>
-		                        		深圳市产业园协会副会长单位
-		                        	</li>		                        	             
-		                        </ul>
-		                        <div class="libtn">
-			                        <div class="btn btnPrev" id="lbbtnP2"></div>
-			                        <div class="btnline"></div>
-										<div class="btn btnNext" id="lbbtnN2"></div>
-									</div>	                        
-		                        <ul class="imglist" id="lunboimg2">
-		                        	<li>
-		                        		<img src="images/x6.jpg">
-		                        	</li>
-		                        	<li>
-		                        		<img src="images/x7.jpg">
-		                        	</li>
-		                        	<li>
-		                        		<img src="images/x6.jpg">
-		                        	</li>
-		                        	<li>
-		                        		<img src="images/x7.jpg">
-		                        	</li>
-		                        	<li>
-		                        		<img src="images/x6.jpg">
-		                        	</li>                       
-		                        </ul>    
-		                	</div>
-	                	
-	                </div>
-	            </div>
-	        </div>
-	    </div>
+    <div class="box">
+        <div class="xin3">
+            <div class="x-box">
+                <div class="x-box-t">
+                    <div class="x-box-h">企业荣誉</div>
+                    <div class="x-box-line"></div>
+                </div>
+                <div class="xin4">
+                    <ul class="lilist" id="lunboli1">
+                        <li>广东省产业园区协会副会长单位</li>
+                        <li>深圳市产业园协会副会长单位</li>
+                        <li>深圳市产业园区发展促进会副会长单位</li>
+                        <li>广东省产业园区协会副会长单位</li>
+                        <li>深圳市产业园协会副会长单位</li>
+                        <li>深圳市产业园协会副会长单位</li>
+                        <li>深圳市产业园协会副会长单位</li>
+                    </ul>
+                    <div class="libtn">
+                        <div class="btn btnPrev" id="lbbtnP1"></div>
+                        <div class="btnline"></div>
+                        <div class="btn btnNext" id="lbbtnN1"></div>
+                    </div>
+                    <ul class="imglist" id="lunboimg1">
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x7.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x7.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                    </ul>
+                </div>
+                <div class="x-box-t">
+                    <div class="x-box-h">企业荣誉</div>
+                    <div class="x-box-line"></div>
+                </div>
+                <div class="xin4">
+                    <ul class="lilist" id="lunboli2">
+                        <li>广东省产业园区协会副会长单位</li>
+                        <li>深圳市产业园协会副会长单位</li>
+                        <li>深圳市产业园区发展促进会副会长单位</li>
+                        <li>广东省产业园区协会副会长单位</li>
+                        <li>深圳市产业园协会副会长单位</li>
+                    </ul>
+                    <div class="libtn">
+                        <div class="btn btnPrev" id="lbbtnP2"></div>
+                        <div class="btnline"></div>
+                        <div class="btn btnNext" id="lbbtnN2"></div>
+                    </div>
+                    <ul class="imglist" id="lunboimg2">
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x7.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x7.jpg">
+                        </li>
+                        <li>
+                            <img src="images/x6.jpg">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 ~~~
 
 ###### 1.2 初始的js代码
